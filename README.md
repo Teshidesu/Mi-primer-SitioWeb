@@ -9,7 +9,7 @@ From its humble beginnings in newspapers to becoming an internationally recogniz
 
 The idea is to use the semantic structure to practice and learn how to use the tags, this was done in the HTML5 module, I did not add CSS because it is only testing the structure, this way it helps to know how each tag and the attribute works
 
-## how the website is displayed
+## How the website is displayed
 
 ![github-image](/imagenes/sitioWeb-manga.PNG)
 
