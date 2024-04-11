@@ -7,8 +7,8 @@ From its humble beginnings in newspapers to becoming an internationally recogniz
 
 ## how the website is displayed
 
-[imagen](/imagenes/sitioWeb-manga.PNG)
+![github-image](/imagenes/sitioWeb-manga.PNG)
 
-[imagen](/imagenes/sitioWeb-manga2.PNG)
+![github-image](/imagenes/sitioWeb-manga2.PNG)
 
-[imagen](/imagenes/sitioWeb-manga3.PNG)
+![github-image](/imagenes/sitioWeb-manga3.PNG)
